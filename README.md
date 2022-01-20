@@ -23,6 +23,8 @@ Place database folder in SQL server or run command php artisan migrate
 
 Note:Vendor folder connot be upload on github.
 
-## Here are some screenshots
+## The Contributor
+
+hiring@onyxtec has been added as contributor
 
 
