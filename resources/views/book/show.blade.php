@@ -79,6 +79,4 @@
             </div>
         </div>
     </div>
-    
-    <div class="footer">Book Club</div>
 </x-app-layout>
