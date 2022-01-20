@@ -25,6 +25,6 @@ Note:Vendor folder connot be upload on github.
 
 ## The Contributor
 
-hiring@onyxtec has been added as contributor
+hiring@onyxtec.co has been added as contributor
 
 
