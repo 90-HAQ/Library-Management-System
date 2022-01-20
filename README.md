@@ -25,6 +25,10 @@ Note:Vendor folder connot be upload on github.
 
 ## The Contributor
 
-hiring@onyxtec.co has been added as contributor
+hiring@onyxtec.co has been added as contributor.
+
+## Project Screenshots
+
+Screen shots are avaliable in this provided link (https://drive.google.com/drive/folders/1qQQHI52J5UoTIDd8LPirF3N1nEnDzL4L?usp=sharing).
 
 
