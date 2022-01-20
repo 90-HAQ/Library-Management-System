@@ -12,10 +12,14 @@ https://drive.google.com/drive/folders/1yZQL2KMOKyOqn6Q_K1c0BT6MDZIW8wVA?usp=sha
 
 Download the project from github
 
-Place project in xampp\htdocs folder
+Replace the project in xampp\htdocs folder.
 
-Place .env file in that folder
+Put .env file in that folder
 
 Place database folder in SQL server or run command php artisan migrate
 
-Note:Vendor folder connot be upload on github reason explained in the video
+Note:Vendor folder connot be upload on github.
+
+## Here are some screenshots
+
+
