@@ -27,9 +27,6 @@ Route::get('/searchBook', function () { return view('book.search', ['layout' => 
 Route::get('/autocomplete', [bookController::class, 'autocomplete'])->middleware(['auth'])->name('autocomplete');
 Route::post('/search', [bookController::class, 'search_specfic_book'])->middleware(['auth'])->name('search');
 
-
-
-
 // show all books
 Route::get('/showallBooks', [bookController::class, 'showall'])->middleware(['auth'])->name('showallBooks');
 

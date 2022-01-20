@@ -18,8 +18,8 @@ class bookController extends Controller
     }
     
 
-
-    // for auto complete of search
+    // Search Function : 2
+    // (1) for auto complete of search, (2) show searched Book
     public function autocomplete(Request $request)
     {
 
@@ -29,8 +29,6 @@ class bookController extends Controller
 
         return response()->json($data);
     }
-
-    // show searched Book
     public function search_specfic_book(Request $request)
     {
         // $book = Book::find($request->name);

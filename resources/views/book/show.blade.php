@@ -19,6 +19,22 @@
             {
                 color: black;
             }
+            .footer
+            {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                margin-top: 12.2%;
+                position: fixed;
+                left: 0;
+                right: 0;
+                height: 40px;
+                width: 100%;
+                background-color:grey;
+                color: whitesmoke;
+                font-weight: 600;
+                font-size: 18px;;
+            }
         </style>
     </head>
 
@@ -63,4 +79,6 @@
             </div>
         </div>
     </div>
+    
+    <div class="footer">Book Club</div>
 </x-app-layout>

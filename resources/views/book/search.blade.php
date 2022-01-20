@@ -63,6 +63,9 @@
                         <section style="padding-top:60px; height:55vh;">
                             @include("book.searchTwo");
                         </section>
+                    @else
+                        <h3>Book not Searched yet....!</h3>
+                        <h4>So, no result found</h4>
                     @endif
                 </div>
             </div>
