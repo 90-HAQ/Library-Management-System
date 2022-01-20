@@ -2,20 +2,13 @@
 
 
 
-## About Laravel
+## README Laravel
 
-README.md
-Video Link:
 
-https://drive.google.com/file/d/1PzynYxnMcEAYsgQT5L4mezkWptz-zqhc/view?usp=sharing
+The folder OnyxTec Assessment includes (Video Link, .env file, Database file).
 
-.env file
+https://drive.google.com/drive/folders/1yZQL2KMOKyOqn6Q_K1c0BT6MDZIW8wVA?usp=sharing
 
-https://drive.google.com/file/d/1qQomRVquCBSCNJKfXqdwg4nFpdU5Yloc/view?usp=sharing
-
-Database file:
-
-https://drive.google.com/file/d/1Q2yugf72S5jm36e8m0xQfaSS_ADeltlr/view?usp=sharing
 
 Download the project from github
 
