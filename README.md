@@ -8,7 +8,7 @@
 ## README Laravel
 
 
-The folder OnyxTec Assessment includes (Video Link, .env file, Database file).
+The folder includes (Video Link, .env file, Database file).
 
 https://drive.google.com/drive/folders/1yZQL2KMOKyOqn6Q_K1c0BT6MDZIW8wVA?usp=sharing
 
